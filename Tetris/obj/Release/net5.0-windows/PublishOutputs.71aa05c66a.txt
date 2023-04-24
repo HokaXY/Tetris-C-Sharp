@@ -1,0 +1,5 @@
+C:\Users\sabab\OneDrive\Desktop\Tetris.exe
+C:\Users\sabab\OneDrive\Desktop\Tetris.dll
+C:\Users\sabab\OneDrive\Desktop\Tetris.deps.json
+C:\Users\sabab\OneDrive\Desktop\Tetris.runtimeconfig.json
+C:\Users\sabab\OneDrive\Desktop\Tetris.pdb
