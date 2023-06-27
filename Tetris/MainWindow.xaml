@@ -73,7 +73,7 @@
               Visibility="Hidden">
             <StackPanel HorizontalAlignment="Center"
                         VerticalAlignment="Center">
-                <TextBlock Text="Game Over Bitch"
+                <TextBlock Text="Game Over"
                        FontSize="48"
                        TextAlignment="Center"/>
 
